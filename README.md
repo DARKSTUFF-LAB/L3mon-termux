@@ -1,9 +1,6 @@
 # Lemon-termux
 
 <p align="center">
-<a href="https://h4ck3r0.github.io/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
-<p align="center">
 <a href="https://h4ck3r0.github.io/"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-L3mon-green.svg?style=flat-square"></a>
 <a href="https://h4ck3r0.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-1.2-green.svg?style=flat-square"></a>
 <a href="https://h4ck3r0.github.io/"><img title="Maintainence" src="https://img.shields.io/badge/Maintained-yes-green.svg?style=flat-square"></a>
@@ -12,16 +9,16 @@
  <a href=""><img src="https://user-images.githubusercontent.com/46929618/174078888-942c148b-b83d-4417-b69c-3cf4c82cb17c.png" width="1000" hight="300"></a>
 </p>
 <p align="center">
-<a href="https://github.com/h4ck3r0"><img title="Github" src="https://img.shields.io/badge/H4CK3R-RAJ-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtu.be/VDeLnDxVziw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-H4CK3R-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/DARKSTUFF-LAB"><img title="Github" src="https://img.shields.io/badge/DARKSTUFF-LAB-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/@DARKSTUFF36"><img title="YouTube" src="https://img.shields.io/badge/YouTube-DARKSTUFF-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
-<a href="https://github.com/h4ck3r0"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103&style=flat-square"></a>
-<a href="https://github.com/h4ck3r0"><img title="Followers" src="https://img.shields.io/github/followers/h4ck3r0?color=blue&style=flat-square"></a>
+<a href="https://github.com/DARKSTUFF-LAB"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103&style=flat-square"></a>
+<a href="https://github.com/DARKSTUFF-LAB"><img title="Followers" src="https://img.shields.io/github/followers/DARKSTUFF-LAB?color=blue&style=flat-square"></a>
 <a href="https://github.com/h4ck3r0"><img title="Stars" src="https://img.shields.io/github/stars/h4ck3r0/Lemon-termux?color=red&style=flat-square"></a>
-<a href="https://github.com/h4ck3r0"><img title="Forks" src="https://img.shields.io/github/forks/h4ck3r0/Lemon-termux?color=red&style=flat-square"></a>
-<a href="https://github.com/h4ck3r0"><img title="Watching" src="https://img.shields.io/github/watchers/h4ck3r0/Lemon-termux?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/h4ck3r0"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg?style=flat-square"></a>
+<a href="https://github.com/DARKSTUFF-LAB"><img title="Forks" src="https://img.shields.io/github/forks/DARKSTUFF-LAB/L3mon-termux?color=red&style=flat-square"></a>
+<a href="https://github.com/DARKSTUFF-LAB"><img title="Watching" src="https://img.shields.io/github/watchers/DARKSTUFF-LAB/L3mon-termux?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DARKSTUFF-LAB"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg?style=flat-square"></a>
 </p>
 
 
@@ -64,8 +61,8 @@
 * `apt-get upgrade -y`
 * `apt install python python2 -y`
 * `pip install lolcat`
-* `git clone https://github.com/h4ck3r0/Lemon-termux`
-* `cd Lemon-termux`
+* `git clone https://github.com/DARKSTUFF-LAB/L3mon-termux.git`
+* `cd L3mon-termux`
 * `bash lemon.sh`
 
 #### Install Java To Fix Build Error
